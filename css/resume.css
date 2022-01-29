@@ -4,6 +4,10 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
  */
 body {
+  background-image: url('https://i.imgur.com/cSw5ujp.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
   font-family: 'Open Sans', serif;
   padding-top: 54px;
   color: #868e96; }
